@@ -85,4 +85,3 @@ elif dist == r1 + r2:
 elif dist < r1 - r2:
     turtle.write("만나지 않고 내부에 있습니다.")
 
-
